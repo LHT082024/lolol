@@ -9,7 +9,10 @@ namespace lol
     public class Binary
     {
         //the class that acually converts the string to binary.
-        //foreach char in the provided string it converts it 
+        //the foreach loop, loops through each character in the provided string
+        //and converts it to binary string "base-2" 
+        //then the badleft makes sure we have enough zeros that the words are 8 characters long. 
+        //the + " " makes sure there are spaces between the words.
         public static string makeBinary(string text)
         {
             string binary = string.Empty;
