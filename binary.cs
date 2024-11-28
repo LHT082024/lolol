@@ -8,6 +8,8 @@ namespace lol
 {
     public class Binary
     {
+        //the class that acually converts the string to binary.
+        //foreach char in the provided string it converts it 
         public static string makeBinary(string text)
         {
             string binary = string.Empty;
