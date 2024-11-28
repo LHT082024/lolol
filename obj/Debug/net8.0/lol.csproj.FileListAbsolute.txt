@@ -1,0 +1,15 @@
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\bin\Debug\net8.0\lol.exe
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\bin\Debug\net8.0\lol.deps.json
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\bin\Debug\net8.0\lol.runtimeconfig.json
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\bin\Debug\net8.0\lol.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\bin\Debug\net8.0\lol.pdb
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\obj\Debug\net8.0\lol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\obj\Debug\net8.0\lol.AssemblyInfoInputs.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\obj\Debug\net8.0\lol.AssemblyInfo.cs
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\obj\Debug\net8.0\lol.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\obj\Debug\net8.0\lol.sourcelink.json
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\obj\Debug\net8.0\lol.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\obj\Debug\net8.0\refint\lol.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\obj\Debug\net8.0\lol.pdb
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\obj\Debug\net8.0\lol.genruntimeconfig.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\lol\obj\Debug\net8.0\ref\lol.dll

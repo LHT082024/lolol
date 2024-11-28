@@ -10,13 +10,12 @@ namespace lol
     {
         public static string makeBinary(string text)
         {
-            StringBuilder builder = new StringBuilder();
-
-            foreach (char chir in text.ToCharArray())
+            string binary = string.Empty;
+            foreach (char chir in text)
             {
-                builder.Append(Convert.ToString(chir, 2).PadLeft(8, '0'));
+                binary += Convert.ToString(chir, 2).PadLeft(8, '0') + " ";
             }
-            return builder.ToString();
+            return binary.Trim();
         }
     }
 }
